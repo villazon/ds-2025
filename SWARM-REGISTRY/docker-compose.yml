@@ -1,4 +1,3 @@
-version: "3.0"
 services:
   broker:        # name of the broker
     image: eclipse-mosquitto
